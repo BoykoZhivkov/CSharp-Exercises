@@ -1,0 +1,14 @@
+/Users/boykozhivkov/C# Exercises/Task2/bin/Debug/net10.0/Task2
+/Users/boykozhivkov/C# Exercises/Task2/bin/Debug/net10.0/Task2.deps.json
+/Users/boykozhivkov/C# Exercises/Task2/bin/Debug/net10.0/Task2.runtimeconfig.json
+/Users/boykozhivkov/C# Exercises/Task2/bin/Debug/net10.0/Task2.dll
+/Users/boykozhivkov/C# Exercises/Task2/bin/Debug/net10.0/Task2.pdb
+/Users/boykozhivkov/C# Exercises/Task2/obj/Debug/net10.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/boykozhivkov/C# Exercises/Task2/obj/Debug/net10.0/Task2.AssemblyInfoInputs.cache
+/Users/boykozhivkov/C# Exercises/Task2/obj/Debug/net10.0/Task2.AssemblyInfo.cs
+/Users/boykozhivkov/C# Exercises/Task2/obj/Debug/net10.0/Task2.csproj.CoreCompileInputs.cache
+/Users/boykozhivkov/C# Exercises/Task2/obj/Debug/net10.0/Task2.dll
+/Users/boykozhivkov/C# Exercises/Task2/obj/Debug/net10.0/refint/Task2.dll
+/Users/boykozhivkov/C# Exercises/Task2/obj/Debug/net10.0/Task2.pdb
+/Users/boykozhivkov/C# Exercises/Task2/obj/Debug/net10.0/Task2.genruntimeconfig.cache
+/Users/boykozhivkov/C# Exercises/Task2/obj/Debug/net10.0/ref/Task2.dll

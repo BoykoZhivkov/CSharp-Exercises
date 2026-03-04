@@ -1,0 +1,14 @@
+/Users/boykozhivkov/C# Exercises/Task4/bin/Debug/net10.0/Task4
+/Users/boykozhivkov/C# Exercises/Task4/bin/Debug/net10.0/Task4.deps.json
+/Users/boykozhivkov/C# Exercises/Task4/bin/Debug/net10.0/Task4.runtimeconfig.json
+/Users/boykozhivkov/C# Exercises/Task4/bin/Debug/net10.0/Task4.dll
+/Users/boykozhivkov/C# Exercises/Task4/bin/Debug/net10.0/Task4.pdb
+/Users/boykozhivkov/C# Exercises/Task4/obj/Debug/net10.0/Task4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/boykozhivkov/C# Exercises/Task4/obj/Debug/net10.0/Task4.AssemblyInfoInputs.cache
+/Users/boykozhivkov/C# Exercises/Task4/obj/Debug/net10.0/Task4.AssemblyInfo.cs
+/Users/boykozhivkov/C# Exercises/Task4/obj/Debug/net10.0/Task4.csproj.CoreCompileInputs.cache
+/Users/boykozhivkov/C# Exercises/Task4/obj/Debug/net10.0/Task4.dll
+/Users/boykozhivkov/C# Exercises/Task4/obj/Debug/net10.0/refint/Task4.dll
+/Users/boykozhivkov/C# Exercises/Task4/obj/Debug/net10.0/Task4.pdb
+/Users/boykozhivkov/C# Exercises/Task4/obj/Debug/net10.0/Task4.genruntimeconfig.cache
+/Users/boykozhivkov/C# Exercises/Task4/obj/Debug/net10.0/ref/Task4.dll
