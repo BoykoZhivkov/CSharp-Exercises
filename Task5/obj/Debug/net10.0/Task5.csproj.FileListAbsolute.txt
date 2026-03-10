@@ -1,0 +1,15 @@
+/Users/boykozhivkov/C# Exercises/Task5/bin/Debug/net10.0/Task5
+/Users/boykozhivkov/C# Exercises/Task5/bin/Debug/net10.0/Task5.deps.json
+/Users/boykozhivkov/C# Exercises/Task5/bin/Debug/net10.0/Task5.runtimeconfig.json
+/Users/boykozhivkov/C# Exercises/Task5/bin/Debug/net10.0/Task5.dll
+/Users/boykozhivkov/C# Exercises/Task5/bin/Debug/net10.0/Task5.pdb
+/Users/boykozhivkov/C# Exercises/Task5/obj/Debug/net10.0/Task5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/boykozhivkov/C# Exercises/Task5/obj/Debug/net10.0/Task5.AssemblyInfoInputs.cache
+/Users/boykozhivkov/C# Exercises/Task5/obj/Debug/net10.0/Task5.AssemblyInfo.cs
+/Users/boykozhivkov/C# Exercises/Task5/obj/Debug/net10.0/Task5.csproj.CoreCompileInputs.cache
+/Users/boykozhivkov/C# Exercises/Task5/obj/Debug/net10.0/Task5.sourcelink.json
+/Users/boykozhivkov/C# Exercises/Task5/obj/Debug/net10.0/Task5.dll
+/Users/boykozhivkov/C# Exercises/Task5/obj/Debug/net10.0/refint/Task5.dll
+/Users/boykozhivkov/C# Exercises/Task5/obj/Debug/net10.0/Task5.pdb
+/Users/boykozhivkov/C# Exercises/Task5/obj/Debug/net10.0/Task5.genruntimeconfig.cache
+/Users/boykozhivkov/C# Exercises/Task5/obj/Debug/net10.0/ref/Task5.dll
